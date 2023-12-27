@@ -1,2 +1,1 @@
-# .github
-Managed by Terraform
+hello.
