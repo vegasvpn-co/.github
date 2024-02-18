@@ -1,3 +1,4 @@
-Thanks for your interest in VegasVPN.
+VegasVPN is currently active under a private beta test group.
 
-Please email vegasvpn@coreinfra.org to join the waitlist.
+If you have a private link please connect directly using the uuid that was sent
+to your email address.
